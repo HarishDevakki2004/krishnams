@@ -12,4 +12,4 @@ steps:
     displayName: 'Build with Maven'
 
   - script: java -jar target/krishnams-0.0.1-SNAPSHOT.jar
-    displayName: 'Run the JAR file of my demoMaven App'
+    displayName: 'Run the JAR file of my krishnams App'
